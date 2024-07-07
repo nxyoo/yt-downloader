@@ -1,7 +1,7 @@
 const btn = document.getElementById('btn');
 const urlInput = document.querySelector('.URL-input');
 const select = document.querySelector('.opt');
-const serverURL = 'http://yt.armanddesne.fr:4000';
+const serverURL = 'https://yt.armanddesne.fr/api';
 const progress = document.getElementById('progress');
 
 btn.addEventListener('click', () => {
