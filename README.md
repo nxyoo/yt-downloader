@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://github.com/nxyoo/yt-downloader/blob/assets/logo.png" alt="logo"></a>
+  <img src="https://github.com/nxyoo/yt-downloader/blob/master/assets/logo.png" alt="logo"></a>
 </h1>
 
 #  Finally no ads 
